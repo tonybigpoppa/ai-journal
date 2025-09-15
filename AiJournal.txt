@@ -1,0 +1,10 @@
+AI Usage Journal
+Anthony Palma
+apalma1@terpmail.umd.edu
+
+Week 1
+This week I did not use AI other than for 3 of the prompts on the coding 
+exercises. I only use generative AI if I have no other method of getting help. 
+This was one of those cases as I knew there were too many questions to get 
+the proper help, and it cleared up some syntax problems that had me 
+stumped.
