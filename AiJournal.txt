@@ -8,3 +8,8 @@ exercises. I only use generative AI if I have no other method of getting help.
 This was one of those cases as I knew there were too many questions to get 
 the proper help, and it cleared up some syntax problems that had me 
 stumped.
+
+Week 2
+The AI usage definitely increased. It became a crutch for nailing the syntax
+and format on the more complex loops that we had to do. Part of my usage
+was also to conserve time, as I am on a time crunch at the moment.
