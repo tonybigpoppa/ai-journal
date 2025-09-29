@@ -13,3 +13,11 @@ Week 2
 The AI usage definitely increased. It became a crutch for nailing the syntax
 and format on the more complex loops that we had to do. Part of my usage
 was also to conserve time, as I am on a time crunch at the moment.
+
+Week 3
+My AI usage has changed week to week. This week I was able to keep 
+all of the code human-written, with one exception. However, my AI usage 
+increased, this time more as a teacher. It was answering questions about 
+why my code wasn't  working so I could adjust accordingly. It only wrote one 
+of the prompts forme, with me rewriting it in a way that reflected my coding 
+style after I took the time to understand what it wrote for me.
