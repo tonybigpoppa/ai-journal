@@ -23,4 +23,12 @@ of the prompts forme, with me rewriting it in a way that reflected my coding
 style after I took the time to understand what it wrote for me.
 
 Week 4
+
 Much of the same. I need slightly more help with direction from AI this week.
+
+Week 5
+
+The questions I've been asking Gemini have been getting more complex, and I'm 
+beginning to find the limits of its problem-solving abilities. Gemini wound up 
+being the cause of one of my functions not working, and it took me messing 
+around with it to get it to output properly.
