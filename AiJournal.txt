@@ -32,3 +32,15 @@ The questions I've been asking Gemini have been getting more complex, and I'm
 beginning to find the limits of its problem-solving abilities. Gemini wound up 
 being the cause of one of my functions not working, and it took me messing 
 around with it to get it to output properly.
+
+Week 6
+
+This week got much harder. I had to rely on Gemini to make sure my functions 
+worked and explain the errors/possible issues my code had. Gemini wrote some
+test cases for those, but I gave up on that due to how complicated the 
+classes were getting. The fact that the questions made very little sense and
+seemed to be up to our own interpretation did not help. I hope I answered them
+properly, but I have no idea. If you're seeing this, please alert whoever writes
+the questions that what we're being asked to code is getting increasingly non-
+sensical. Please clarify exactly what you want the code to do. Having
+pre-made test cases made the objective of the code much clearer.
