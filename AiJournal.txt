@@ -44,3 +44,10 @@ properly, but I have no idea. If you're seeing this, please alert whoever writes
 the questions that what we're being asked to code is getting increasingly non-
 sensical. Please clarify exactly what you want the code to do. Having
 pre-made test cases made the objective of the code much clearer.
+
+Week 7
+
+The questions got more confusing, and more difficult. I now have very little idea
+what I'm doing and am relying on AI to start code for me more and more. I have
+almost no idea what the questions are asking anymore and it's getting impossible
+to keep up. I feel like I'm drowining in Python. 
