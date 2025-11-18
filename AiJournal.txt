@@ -53,10 +53,14 @@ almost no idea what the questions are asking anymore, and it's getting impossibl
 to keep up. I feel like I'm drowning in Python. 
 
 Week 8
+
 ###########
 
 Week 9
+
 I managed to study some, and with the help of AI, I was able to finish the 
 assignment late. I used it to provide a framework that I could use to answer the 
 questions with and to write test cases/demonstrations for myself. I really, really
-hate relying on AI this much, but I feel like I don't have a choice.
+hate relying on AI this much, but I feel like I don't have a choice. Why is this
+class even a requirement for InfoSci?
+
